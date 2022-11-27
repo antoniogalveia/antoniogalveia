@@ -17,6 +17,7 @@
 
 ##
 
+<p>📞 Entre em contacto comigo!</p>
 <div style="display: inline-block;">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-B258FF?style=for-the-badge&logo=instagram&logoColor=white"><a/>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"><a/>
@@ -24,5 +25,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
   <a href="mailto:antonio.galveia22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 </div>
+<br>
+
+##
 
 ![Snake animation](https://github.com/antoniogalveia/antoniogalveia/blob/output/github-contribution-grid-snake.svg)
